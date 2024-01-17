@@ -6,7 +6,7 @@
 
 
 
-# Hey there :wave:, I'm Kenneth, it's a pleasure to meet you!
+# Hey there :wave:, I'm nino, it's a pleasure to meet you!
 
 ### A few things about me
 - I am frontend web developer doing all things creative to make the web a more unique and awesome place.
